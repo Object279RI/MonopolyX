@@ -1,0 +1,2 @@
+# MonopolyX
+Permainan monopoly nasional
